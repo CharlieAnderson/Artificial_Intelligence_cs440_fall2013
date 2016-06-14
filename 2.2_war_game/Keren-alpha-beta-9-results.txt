@@ -1,0 +1,351 @@
+The map:
+ 1  1  1  1  1  1 
+ 1  1  1  1  1  1 
+ 1  1  1  1  1  1 
+ 1  1  1  1  1  1 
+ 1  1  1  1  1  1 
+ 1  1  1  1  1  1 
+Occupation of the map:
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Starting game
+Turn: 1
+BLUE: PARADROP A1
+Map after move:
+ b  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 2
+GREEN: PARADROP B1
+Map after move:
+ b  g  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 3
+BLUE: PARADROP C1
+Map after move:
+ b  g  b  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 4
+GREEN: PARADROP D1
+Map after move:
+ b  g  b  g  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 5
+BLUE: PARADROP E1
+Map after move:
+ b  g  b  g  b  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 6
+GREEN: PARADROP F1
+Map after move:
+ b  g  b  g  b  g 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 7
+BLUE: BLITZ A2
+Map after move:
+ b  g  b  g  b  g 
+ b  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 8
+GREEN: BLITZ B2
+Map after move:
+ b  g  b  g  b  g 
+ g  g  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 9
+BLUE: BLITZ C2
+Map after move:
+ b  g  b  g  b  g 
+ g  b  b  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 10
+GREEN: BLITZ D2
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 11
+BLUE: PARADROP F3
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  n 
+ n  n  n  n  n  b 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 12
+GREEN: BLITZ A3
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  n 
+ g  n  n  n  n  b 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 13
+BLUE: BLITZ B3
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  n 
+ b  b  n  n  n  b 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 14
+GREEN: BLITZ C3
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  n 
+ b  g  g  n  n  b 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 15
+BLUE: PARADROP B4
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  n 
+ b  g  g  n  n  b 
+ n  b  n  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 16
+GREEN: BLITZ C4
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  n 
+ b  g  g  n  n  b 
+ n  g  g  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 17
+BLUE: BLITZ A4
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  n 
+ b  g  g  n  n  b 
+ b  b  g  n  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 18
+GREEN: BLITZ D4
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  n 
+ b  g  g  n  n  b 
+ b  b  g  g  n  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 19
+BLUE: PARADROP E4
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  n 
+ b  g  g  n  n  b 
+ b  b  g  g  b  n 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 20
+GREEN: PARADROP F4
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  n 
+ b  g  g  n  n  b 
+ b  b  g  g  b  g 
+ n  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 21
+BLUE: BLITZ A5
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  n 
+ b  g  g  n  n  b 
+ b  b  g  g  b  g 
+ b  n  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 22
+GREEN: PARADROP B5
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  n 
+ b  g  g  n  n  b 
+ b  b  g  g  b  g 
+ b  g  n  n  n  n 
+ n  n  n  n  n  n 
+Turn: 23
+BLUE: PARADROP F5
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  n 
+ b  g  g  n  n  b 
+ b  b  g  g  b  g 
+ b  g  n  n  n  b 
+ n  n  n  n  n  n 
+Turn: 24
+GREEN: BLITZ C5
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  n 
+ b  g  g  n  n  b 
+ b  b  g  g  b  g 
+ b  g  g  n  n  b 
+ n  n  n  n  n  n 
+Turn: 25
+BLUE: PARADROP D3
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  n 
+ b  g  g  b  n  b 
+ b  b  g  g  b  g 
+ b  g  g  n  n  b 
+ n  n  n  n  n  n 
+Turn: 26
+GREEN: BLITZ F2
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  g 
+ b  g  g  b  n  g 
+ b  b  g  g  b  g 
+ b  g  g  n  n  b 
+ n  n  n  n  n  n 
+Turn: 27
+BLUE: BLITZ E5
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  g 
+ b  g  g  b  n  g 
+ b  b  g  g  b  g 
+ b  g  g  n  b  b 
+ n  n  n  n  n  n 
+Turn: 28
+GREEN: BLITZ D5
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  g  n  g 
+ b  g  g  b  n  g 
+ b  b  g  g  b  g 
+ b  g  g  g  g  b 
+ n  n  n  n  n  n 
+Turn: 29
+BLUE: BLITZ E2
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  b  b  b 
+ b  g  g  b  n  g 
+ b  b  g  g  b  g 
+ b  g  g  g  g  b 
+ n  n  n  n  n  n 
+Turn: 30
+GREEN: BLITZ E3
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  b  g  b 
+ b  g  g  g  g  g 
+ b  b  g  g  g  g 
+ b  g  g  g  g  b 
+ n  n  n  n  n  n 
+Turn: 31
+BLUE: BLITZ A6
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  b  g  b 
+ b  g  g  g  g  g 
+ b  b  g  g  g  g 
+ b  g  g  g  g  b 
+ b  n  n  n  n  n 
+Turn: 32
+GREEN: BLITZ B6
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  b  g  b 
+ b  g  g  g  g  g 
+ b  b  g  g  g  g 
+ b  g  g  g  g  b 
+ g  g  n  n  n  n 
+Turn: 33
+BLUE: PARADROP E6
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  b  g  b 
+ b  g  g  g  g  g 
+ b  b  g  g  g  g 
+ b  g  g  g  g  b 
+ g  g  n  n  b  n 
+Turn: 34
+GREEN: BLITZ D6
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  b  g  b 
+ b  g  g  g  g  g 
+ b  b  g  g  g  g 
+ b  g  g  g  g  b 
+ g  g  n  g  g  n 
+Turn: 35
+BLUE: BLITZ F6
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  b  g  b 
+ b  g  g  g  g  g 
+ b  b  g  g  g  g 
+ b  g  g  g  g  b 
+ g  g  n  g  b  b 
+Turn: 36
+GREEN: BLITZ C6
+Map after move:
+ b  g  b  g  b  g 
+ g  b  g  b  g  b 
+ b  g  g  g  g  g 
+ b  b  g  g  g  g 
+ b  g  g  g  g  b 
+ g  g  g  g  b  b 
+End-game map: 
+ b  g  b  g  b  g 
+ g  b  g  b  g  b 
+ b  g  g  g  g  g 
+ b  b  g  g  g  g 
+ b  g  g  g  g  b 
+ g  g  g  g  b  b 
+Blue: 13, Green: 23
+Total time for all moves: 466.58484 second(s)
+Nodes expanded by Blue: 263866424, and by Green: 209262360, giving a total of: 473128784
+The average amount of nodes per move: 13142466
+The average amount of time per move: 12.96069 second(s)

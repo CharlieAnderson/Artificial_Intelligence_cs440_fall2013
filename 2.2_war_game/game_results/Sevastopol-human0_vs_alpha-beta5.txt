@@ -1,0 +1,90 @@
+Alpha-beta Depth: 5.
+Minimax Depth: 0.
+
+Blue is using: human
+Green is using: alpha-beta
+
+The map, Sevastopol:
+     A  B  C  D  E  F 
+ 1 | 1  1  1  1  1  1 
+ 2 | 2  2  2  2  2  2 
+ 3 | 4  4  4  4  4  4 
+ 4 | 8  8  8  8  8  8 
+ 5 |16 16 16 16 16 16 
+ 6 |32 32 32 32 32 32 
+
+Starting game
+Please play BLUE's turn:
+The current map is:
+     A  B  C  D  E  F 
+ 1 | n  n  n  n  n  n 
+ 2 | n  n  n  n  n  n 
+ 3 | n  n  n  n  n  n 
+ 4 | n  n  n  n  n  n 
+ 5 | n  n  n  n  n  n 
+ 6 | n  n  n  n  n  n 
+BLUE: PARADROP F6
+GREEN: PARADROP A6
+Please play BLUE's turn:
+The current map is:
+     A  B  C  D  E  F 
+ 1 | n  n  n  n  n  n 
+ 2 | n  n  n  n  n  n 
+ 3 | n  n  n  n  n  n 
+ 4 | n  n  n  n  n  n 
+ 5 | n  n  n  n  n  n 
+ 6 | g  n  n  n  n  b 
+BLUE: BLITZ E6
+GREEN: BLITZ A5
+Please play BLUE's turn:
+The current map is:
+     A  B  C  D  E  F 
+ 1 | n  n  n  n  n  n 
+ 2 | n  n  n  n  n  n 
+ 3 | n  n  n  n  n  n 
+ 4 | n  n  n  n  n  n 
+ 5 | g  n  n  n  n  n 
+ 6 | g  n  n  n  b  b 
+BLUE: PARADROP C3
+GREEN: BLITZ B6
+Please play BLUE's turn:
+The current map is:
+     A  B  C  D  E  F 
+ 1 | n  n  n  n  n  n 
+ 2 | n  n  n  n  n  n 
+ 3 | n  n  b  n  n  n 
+ 4 | n  n  n  n  n  n 
+ 5 | g  n  n  n  n  n 
+ 6 | g  g  n  n  b  b 
+BLUE: BLITZ D6
+GREEN: BLITZ C6
+Please play BLUE's turn:
+The current map is:
+     A  B  C  D  E  F 
+ 1 | n  n  n  n  n  n 
+ 2 | n  n  n  n  n  n 
+ 3 | n  n  b  n  n  n 
+ 4 | n  n  n  n  n  n 
+ 5 | g  n  n  n  n  n 
+ 6 | g  g  g  g  b  b 
+Input incorrect, please try again.
+Please play BLUE's turn:
+The current map is:
+     A  B  C  D  E  F 
+ 1 | n  n  n  n  n  n 
+ 2 | n  n  n  n  n  n 
+ 3 | n  n  b  n  n  n 
+ 4 | n  n  n  n  n  n 
+ 5 | g  n  n  n  n  n 
+ 6 | g  g  g  g  b  b 
+BLUE: BLITZ C4
+GREEN: BLITZ C5
+Please play BLUE's turn:
+The current map is:
+     A  B  C  D  E  F 
+ 1 | n  n  n  n  n  n 
+ 2 | n  n  n  n  n  n 
+ 3 | n  n  b  n  n  n 
+ 4 | n  n  g  n  n  n 
+ 5 | g  n  g  n  n  n 
+ 6 | g  g  g  g  b  b 

@@ -1,0 +1,26 @@
+Alpha-beta Depth: 7.
+Minimax Depth: 0.
+
+Blue is using: human
+Green is using: alpha-beta
+
+The map, Sevastopol:
+     A  B  C  D  E  F 
+ 1 | 1  1  1  1  1  1 
+ 2 | 2  2  2  2  2  2 
+ 3 | 4  4  4  4  4  4 
+ 4 | 8  8  8  8  8  8 
+ 5 |16 16 16 16 16 16 
+ 6 |32 32 32 32 32 32 
+
+Starting game
+Please play BLUE's turn:
+The current map is:
+     A  B  C  D  E  F 
+ 1 | n  n  n  n  n  n 
+ 2 | n  n  n  n  n  n 
+ 3 | n  n  n  n  n  n 
+ 4 | n  n  n  n  n  n 
+ 5 | n  n  n  n  n  n 
+ 6 | n  n  n  n  n  n 
+BLUE: PARADROP F6

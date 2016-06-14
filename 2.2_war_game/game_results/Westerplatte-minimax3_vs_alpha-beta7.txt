@@ -1,0 +1,71 @@
+Alpha-beta Depth: 7.
+Minimax Depth: 3.
+
+Blue is using: minimax
+Green is using: alpha-beta
+
+The map, Westerplatte:
+ 1  1  1  1  1  1 
+ 1  3  4  4  3  1 
+ 1  4  2  2  4  1 
+ 1  4  2  2  4  1 
+ 1  3  4  4  3  1 
+ 1  1  1  1  1  1 
+
+Starting game
+BLUE: PARADROP C2
+GREEN: PARADROP C5
+BLUE: BLITZ D2
+GREEN: PARADROP B4
+BLUE: PARADROP B3
+GREEN: PARADROP D4
+BLUE: BLITZ D3
+GREEN: BLITZ D5
+BLUE: PARADROP E4
+GREEN: PARADROP E2
+BLUE: BLITZ C3
+GREEN: BLITZ C4
+BLUE: BLITZ E3
+GREEN: BLITZ E5
+BLUE: PARADROP A1
+GREEN: PARADROP A3
+BLUE: PARADROP B5
+GREEN: BLITZ A2
+BLUE: BLITZ B2
+GREEN: BLITZ B1
+BLUE: BLITZ C1
+GREEN: PARADROP F2
+BLUE: PARADROP F5
+GREEN: PARADROP E1
+BLUE: BLITZ D1
+GREEN: BLITZ F1
+BLUE: PARADROP A4
+GREEN: PARADROP A5
+BLUE: PARADROP A6
+GREEN: BLITZ F4
+BLUE: BLITZ F3
+GREEN: PARADROP B6
+BLUE: PARADROP C6
+GREEN: BLITZ D6
+BLUE: PARADROP E6
+GREEN: BLITZ F6
+
+End-game map: 
+ g  b  b  b  g  g 
+ b  g  b  b  b  b 
+ g  b  g  b  b  b 
+ b  g  g  g  g  b 
+ g  b  g  g  g  g 
+ b  g  g  g  g  g 
+
+Blue: 33, Green: 39
+
+Total time for all moves: 157.84883s
+
+Nodes expanded by Blue: 217758,
+and by Green: 151952304,
+giving a total of: 152170062
+
+Avg amount of nodes/move: 4226946
+
+Avg amount of time/move: 4.38469s

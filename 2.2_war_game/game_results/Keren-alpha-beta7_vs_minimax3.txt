@@ -1,0 +1,71 @@
+Alpha-beta Depth: 7.
+Minimax Depth: 3.
+
+Blue is using: alpha-beta
+Green is using: minimax
+
+The map, Keren:
+ 1  1  1  1  1  1 
+ 1  1  1  1  1  1 
+ 1  1  1  1  1  1 
+ 1  1  1  1  1  1 
+ 1  1  1  1  1  1 
+ 1  1  1  1  1  1 
+
+Starting game
+BLUE: PARADROP A1
+GREEN: PARADROP B1
+BLUE: PARADROP C1
+GREEN: PARADROP D1
+BLUE: PARADROP E1
+GREEN: PARADROP F1
+BLUE: BLITZ A2
+GREEN: BLITZ B2
+BLUE: BLITZ C2
+GREEN: BLITZ D2
+BLUE: PARADROP F3
+GREEN: PARADROP B3
+BLUE: PARADROP B4
+GREEN: BLITZ D3
+BLUE: BLITZ F2
+GREEN: BLITZ E2
+BLUE: BLITZ E3
+GREEN: BLITZ C3
+BLUE: BLITZ C4
+GREEN: PARADROP F4
+BLUE: PARADROP A3
+GREEN: PARADROP A4
+BLUE: PARADROP A5
+GREEN: BLITZ F5
+BLUE: BLITZ B5
+GREEN: PARADROP C5
+BLUE: PARADROP F6
+GREEN: PARADROP E6
+BLUE: BLITZ B6
+GREEN: BLITZ C6
+BLUE: BLITZ A6
+GREEN: BLITZ D6
+BLUE: PARADROP D5
+GREEN: BLITZ D4
+BLUE: BLITZ E4
+GREEN: BLITZ E5
+
+End-game map: 
+ b  g  b  g  g  b 
+ g  b  g  g  b  g 
+ b  g  b  g  b  b 
+ g  b  g  b  g  b 
+ b  b  g  g  g  g 
+ b  b  g  g  g  b 
+
+Blue: 17, Green: 19
+
+Total time for all moves: 10.323702s
+
+Nodes expanded by Blue: 9332007,
+and by Green: 194754,
+giving a total of: 9526761
+
+Avg amount of nodes/move: 264632
+
+Avg amount of time/move: 0.2867695s

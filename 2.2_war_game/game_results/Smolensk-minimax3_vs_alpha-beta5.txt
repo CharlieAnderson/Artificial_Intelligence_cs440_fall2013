@@ -1,0 +1,71 @@
+Alpha-beta Depth: 5.
+Minimax Depth: 3.
+
+Blue is using: minimax
+Green is using: alpha-beta
+
+The map, Smolensk:
+66 76 28 66 11  9 
+31 39 50  8 33 14 
+80 76 39 59  2 48 
+50 73 43  3 13  3 
+99 45 72 87 49  4 
+80 63 92 28 61 53 
+
+Starting game
+BLUE: PARADROP A5
+GREEN: PARADROP C6
+BLUE: PARADROP A3
+GREEN: PARADROP A6
+BLUE: PARADROP B1
+GREEN: PARADROP D5
+BLUE: BLITZ B3
+GREEN: BLITZ B6
+BLUE: BLITZ B5
+GREEN: BLITZ C5
+BLUE: BLITZ B4
+GREEN: BLITZ C4
+BLUE: BLITZ A4
+GREEN: BLITZ C3
+BLUE: BLITZ B2
+GREEN: PARADROP D1
+BLUE: BLITZ A1
+GREEN: BLITZ C2
+BLUE: PARADROP E6
+GREEN: BLITZ E5
+BLUE: BLITZ C1
+GREEN: BLITZ A2
+BLUE: PARADROP F3
+GREEN: BLITZ F6
+BLUE: PARADROP E2
+GREEN: PARADROP F1
+BLUE: BLITZ F2
+GREEN: BLITZ F5
+BLUE: PARADROP D3
+GREEN: BLITZ D4
+BLUE: BLITZ E3
+GREEN: BLITZ D6
+BLUE: BLITZ E1
+GREEN: PARADROP D2
+BLUE: BLITZ E4
+GREEN: BLITZ F4
+
+End-game map: 
+ g  b  b  b  b  b 
+ g  g  b  g  b  b 
+ g  b  g  b  b  g 
+ b  b  g  b  g  g 
+ b  b  g  g  b  g 
+ g  b  g  g  g  g 
+
+Blue: 806, Green: 847
+
+Total time for all moves: 6.519836s
+
+Nodes expanded by Blue: 217758,
+and by Green: 6140194,
+giving a total of: 6357952
+
+Avg amount of nodes/move: 176609
+
+Avg amount of time/move: 0.18110655s

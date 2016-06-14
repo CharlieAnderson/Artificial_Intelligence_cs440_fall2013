@@ -1,0 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%
+%2           56%   %
+%3%%1%%8%%4%%7%% % %
+%        P       % %
+%%%%%%%%%%%%%%%%%% %
+%dcba9             %
+%%%%%%%%%%%%%%%%%%%%
+Path cost: 114.0
+Number of Nodes Expanded: 15426
+Maximum tree Depth searched: 114
+Maximum size of the frontier: 615

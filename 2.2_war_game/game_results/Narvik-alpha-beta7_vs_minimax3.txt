@@ -1,0 +1,71 @@
+Alpha-beta Depth: 7.
+Minimax Depth: 3.
+
+Blue is using: alpha-beta
+Green is using: minimax
+
+The map, Narvik:
+99  1 99  1 99  1 
+ 1 99  1 99  1 99 
+99  1 99  1 99  1 
+ 1 99  1 99  1 99 
+99  1 99  1 99  1 
+ 1 99  1 99  1 99 
+
+Starting game
+BLUE: PARADROP B2
+GREEN: PARADROP E1
+BLUE: PARADROP A1
+GREEN: PARADROP F2
+BLUE: PARADROP A3
+GREEN: PARADROP E3
+BLUE: PARADROP B4
+GREEN: PARADROP F4
+BLUE: PARADROP A5
+GREEN: PARADROP E5
+BLUE: PARADROP C3
+GREEN: PARADROP C1
+BLUE: BLITZ B1
+GREEN: BLITZ D1
+BLUE: BLITZ C2
+GREEN: BLITZ D2
+BLUE: BLITZ D3
+GREEN: BLITZ E2
+BLUE: PARADROP C5
+GREEN: BLITZ D5
+BLUE: BLITZ B5
+GREEN: PARADROP F6
+BLUE: BLITZ D4
+GREEN: BLITZ E4
+BLUE: BLITZ C4
+GREEN: BLITZ F1
+BLUE: BLITZ D6
+GREEN: PARADROP B6
+BLUE: BLITZ A6
+GREEN: PARADROP A2
+BLUE: BLITZ B3
+GREEN: BLITZ F3
+BLUE: BLITZ A4
+GREEN: PARADROP C6
+BLUE: BLITZ E6
+GREEN: BLITZ F5
+
+End-game map: 
+ b  b  b  g  g  g 
+ g  b  g  g  g  g 
+ b  b  b  b  g  g 
+ b  b  b  b  g  g 
+ b  b  b  b  g  g 
+ b  b  g  b  b  g 
+
+Blue: 1098, Green: 702
+
+Total time for all moves: 24.72552s
+
+Nodes expanded by Blue: 24995343,
+and by Green: 194754,
+giving a total of: 25190097
+
+Avg amount of nodes/move: 699724
+
+Avg amount of time/move: 0.68682s

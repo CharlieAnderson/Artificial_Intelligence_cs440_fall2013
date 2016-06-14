@@ -1,0 +1,71 @@
+Alpha-beta Depth: 7.
+Minimax Depth: 3.
+
+Blue is using: minimax
+Green is using: minimax
+
+The map, Sevastopol:
+ 1  1  1  1  1  1 
+ 2  2  2  2  2  2 
+ 4  4  4  4  4  4 
+ 8  8  8  8  8  8 
+16 16 16 16 16 16 
+32 32 32 32 32 32 
+
+Starting game
+BLUE: PARADROP A6
+GREEN: PARADROP B6
+BLUE: PARADROP C6
+GREEN: PARADROP D6
+BLUE: PARADROP B5
+GREEN: PARADROP A5
+BLUE: PARADROP D5
+GREEN: PARADROP C5
+BLUE: PARADROP F5
+GREEN: PARADROP E5
+BLUE: PARADROP A4
+GREEN: PARADROP B4
+BLUE: PARADROP C4
+GREEN: PARADROP D4
+BLUE: PARADROP E4
+GREEN: PARADROP F4
+BLUE: PARADROP B3
+GREEN: PARADROP A3
+BLUE: PARADROP D3
+GREEN: PARADROP C3
+BLUE: PARADROP F3
+GREEN: PARADROP E3
+BLUE: PARADROP A2
+GREEN: PARADROP B2
+BLUE: PARADROP C2
+GREEN: PARADROP D2
+BLUE: PARADROP E2
+GREEN: PARADROP F2
+BLUE: PARADROP B1
+GREEN: PARADROP A1
+BLUE: PARADROP D1
+GREEN: PARADROP C1
+BLUE: PARADROP F1
+GREEN: PARADROP E1
+BLUE: PARADROP E6
+GREEN: PARADROP F6
+
+End-game map: 
+ g  b  g  b  g  b 
+ b  g  b  g  b  g 
+ g  b  g  b  g  b 
+ b  g  b  g  b  g 
+ g  b  g  b  g  b 
+ b  g  b  g  b  g 
+
+Blue: 189, Green: 189
+
+Total time for all moves: 0.61269s
+
+Nodes expanded by Blue: 217758,
+and by Green: 194754,
+giving a total of: 412512
+
+Avg amount of nodes/move: 11458
+
+Avg amount of time/move: 0.017019166s

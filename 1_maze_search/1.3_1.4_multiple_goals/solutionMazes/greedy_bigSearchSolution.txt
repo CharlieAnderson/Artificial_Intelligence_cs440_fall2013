@@ -1,0 +1,25 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%qrstuvwxyzab%%zabcdefghijk%
+%p%%%%o%%%%%c%%y%%%%%s%%%%l%
+%onmlkjihgfedvwxcbvutrqponm%
+%n%%%%p%%q%%%%%%%%w%%d%%%%u%
+%mlkjih%%rstu%%azyx%%ejkrst%
+%%%%%%g%%%%% %% %%%%%f%%%%%%
+%%%%%%f%%          %%g%%%%%%
+%%%%%%e%% %%%  %%% %%h%%%%%%
+%54321d   %z    y%   ipqvwx%
+%%%%%%c%% %%%%%%%% %%l%%%%%%
+%%%%%%b%%          %%m%%%%%%
+%%%%%%a%% %%%%%%%% %%n%%%%%%
+%lmnop9876543%%utsrqpoihgfe%
+%k%%%%6%%%%%2%%v%%%%%j%%%%d%
+%jihg%789abc1 Pwxyzalk%zabc%
+%%%%f%e%%d%%%%%%%%b%%m%y%%%%
+%yzabcd%%efgh%%fedc%%noxwvu%
+%x%%%%%%%%%%i%%g%%%%%%%%%%t%
+%wvutsrqponmjklhijklmnopqrs%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Path cost: 341.0
+Number of Nodes Expanded: 1337
+Maximum tree Depth searched: 341
+Maximum size of the frontier: 461
